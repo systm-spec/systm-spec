@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 
 
 [![An image of @systmspec's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/systmspec)](https://holopin.io/@systmspec)
+
+![IHK_Badge_small](https://github.com/user-attachments/assets/d39fb065-6802-4766-897c-ff9e36fcc797)
